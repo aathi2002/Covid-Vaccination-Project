@@ -4,6 +4,6 @@
 
     session_destroy();
 
-    header("Location:http://localhost")
+    header("Location:http://localhost") //redirect to home page
 
 ?>
